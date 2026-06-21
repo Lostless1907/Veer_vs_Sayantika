@@ -22,6 +22,26 @@ I think she's all bark and no bite ;) lessee though I can take hard bites :D
 
 (TBD)
 
+## master.json Format
+
+```
+{
+  "participants": [
+    "T O",
+    "Veer",
+    "Sayantika"
+  ],
+
+  "days": [],
+
+  "totals": {
+    "T O": 0,
+    "Veer": 0,
+    "Sayantika": 0
+  }
+}
+```
+
 ## Notes
 
 Will make repo more polished tomorrow, first log starts 23rd june, runs till 23rd july or so/
