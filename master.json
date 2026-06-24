@@ -1,15 +1,36 @@
 {
-  "participants": [
-    "T O",
-    "Veer",
-    "Sayantika"
-  ],
-
-  "days": [],
-
-  "totals": {
-    "T O": 0,
-    "Veer": 0,
-    "Sayantika": 0
+  "day": 1,
+  "date": "2026-06-23",
+  "participants": {
+    "Sayantika": {
+      "problems_done": 3,
+      "problem_links": [
+        {
+          "name": "Bit Strings",
+          "url": "https://cses.fi/problemset/task/1617"
+        },
+        {
+          "name": "Coin Piles",
+          "url": "https://cses.fi/problemset/task/1754"
+        },
+        {
+          "name": "Gray Code",
+          "url": "https://cses.fi/problemset/task/2205"
+        }
+      ],
+      "learning_notes": [
+        "Completed 3 CSES introductory problems.",
+        "Practiced 6-7 additional complexity and efficiency exercises.",
+        "Learned quantifying efficiency."
+      ]
+    },
+    "Veer": {
+      "problems_done": 5,
+      "problem_links": [],
+      "learning_notes": [
+        "Learned Dynamic Programming.",
+        "Learned node structs."
+      ]
+    }
   }
 }
